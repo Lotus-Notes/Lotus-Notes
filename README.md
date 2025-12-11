@@ -8,7 +8,7 @@ I use **Python**, **MATLAB**, and **Neovim/Linux tooling** to accelerate my engi
 
 ---
 
-## 🔧 Technical Focus Areas
+## 📡 Technical Focus Areas
 
 - **MMIC Design** (GaN/GaAs, Ka-band, SPDT switches, LNAs, PAs, phase shifters)  
 - **Simulation Tools:** ADS, Momentum/RFPro, Sonnet, HFSS, Virtuoso (DRC/LVS)  
@@ -21,7 +21,7 @@ I use **Python**, **MATLAB**, and **Neovim/Linux tooling** to accelerate my engi
 ## 📘 Featured Repositories
 
 ### 🔹 [RF_code_public](https://github.com/Lotus-Notes/RF_code_public)
-Python + MATLAB tools for RF engineering, including:
+🐍 Python + λ MATLAB tools for RF engineering, including:
 - Z-parameter / Γ / matching network utilities  
 - Frequency sweeps & automated dataset generation  
 - Visualization tools (Smith charts, gain/phase plots)  
