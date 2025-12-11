@@ -45,5 +45,4 @@ My fully themed Linux environment:
 
 ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/russanderson0831/  
-- **Email:** russ.anderson0831@gmail.com  
 
