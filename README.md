@@ -2,7 +2,6 @@
 ### Sr. RF / MMIC Design Engineer 
 
 I'm a Senior Electrical Engineer specializing in **GaN/GaAs MMIC design**, **microwave and mm-wave simulation**, and **RF component characterization**. My experience spans device-level design, simulation, layout collaboration, and RF test-focused engineering across multiple Raytheon programs.  
-(Resume: Sr. Electrical Engineer – MMIC Design, ADS/Momentum/Sonnet simulation, Cadence Virtuoso)
 
 I use **Python**, **MATLAB**, and **Neovim/Linux tooling** to accelerate my engineering workflow, automate data analysis, and support RF design decisions.
 
@@ -10,11 +9,11 @@ I use **Python**, **MATLAB**, and **Neovim/Linux tooling** to accelerate my engi
 
 ## 📡 Technical Focus Areas
 
-- **MMIC Design** (GaN/GaAs, Ka-band, SPDT switches, LNAs, PAs, phase shifters)  
+- **MMIC Design** (GaN/GaAs MMICs including SPDT switches, LNAs, PAs, phase shifters)  
 - **Simulation Tools:** ADS, Momentum/RFPro, Sonnet, HFSS, Virtuoso (DRC/LVS)  
-- **RF Test & Characterization:** S-parameters, TOI, NF, compression, DDG-1002 test support  
-- **Engineering Leadership:** Northeastern GIEL Program (Modified Stripline MMIC Project)  
-- **Python & MATLAB Tools:** RF sweeps, impedance matching, plotting, scikit-rf utilities
+- **RF Test & Characterization:** S-parameters, TOI, NF, scalar and vector large-signal measurements  
+- **Engineering Leadership:** Northeastern GIEL Program (Modified Stripline MMIC Challenge Project)  
+- **Python & MATLAB Tools:** RF data analysis, impedance matching, plotting, scikit-rf utilities
   
 ---
 
@@ -22,7 +21,7 @@ I use **Python**, **MATLAB**, and **Neovim/Linux tooling** to accelerate my engi
 
 ### 🔹 [RF_code_public](https://github.com/Lotus-Notes/RF_code_public)
 🐍 Python + λ MATLAB tools for RF engineering, including:
-- Z-parameter / Γ / matching network utilities  
+- Z-parameter / Γ load and source pull / matching network utilities  
 - Frequency sweeps & automated dataset generation  
 - Visualization tools (Smith charts, gain/phase plots)  
 
@@ -36,13 +35,11 @@ My fully themed Linux environment:
 
 ## 🧰 Tools & Technologies
 
-**RF Simulation:** ADS, Momentum, Sonnet, HFSS, RFPro  
-**Design Tools:** Cadence Virtuoso  
+**RF Simulation Tools:** Keysight ADS, Momentum, and RFPro, Sonnet, Ansys HFSS  
+**Layout Tools:** Cadence Virtuoso & Keysight ADS 
 **Programming:** Python, MATLAB  
 **Test Equipment:** PNA-X, spectrum analyzers, power meters, oscilloscopes  
 **Environment:** Linux, Hyprland, Neovim, Git, GitHub  
-
-(All directly sourced from Technical Skills section of your resume :contentReference[oaicite:4]{index=4})
 
 ---
 
