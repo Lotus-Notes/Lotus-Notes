@@ -2,7 +2,7 @@
 ### Sr. RF / MMIC Design Engineer 
 
 I'm a Senior Electrical Engineer specializing in **GaN/GaAs MMIC design**, **microwave and mm-wave simulation**, and **RF component characterization**. My experience spans device-level design, simulation, layout collaboration, and RF test-focused engineering across multiple Raytheon programs.  
-(Resume: Sr. Electrical Engineer – MMIC Design, ADS/Momentum/Sonnet simulation, Cadence Virtuoso DRC/LVS :contentReference[oaicite:2]{index=2})
+(Resume: Sr. Electrical Engineer – MMIC Design, ADS/Momentum/Sonnet simulation, Cadence Virtuoso)
 
 I use **Python**, **MATLAB**, and **Neovim/Linux tooling** to accelerate my engineering workflow, automate data analysis, and support RF design decisions.
 
@@ -15,9 +15,7 @@ I use **Python**, **MATLAB**, and **Neovim/Linux tooling** to accelerate my engi
 - **RF Test & Characterization:** S-parameters, TOI, NF, compression, DDG-1002 test support  
 - **Engineering Leadership:** Northeastern GIEL Program (Modified Stripline MMIC Project)  
 - **Python & MATLAB Tools:** RF sweeps, impedance matching, plotting, scikit-rf utilities
-
-(Experience references: MMIC design, test engineering, DARPA NGMM/GIEL Challenge Project, matching networks, autobias circuits :contentReference[oaicite:3]{index=3})
-
+  
 ---
 
 ## 📘 Featured Repositories
